@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: Color Problem 1
   m_EditorClassIdentifier: 
   <Colors>k__BackingField:
+  - {r: 0, g: 0, b: 1, a: 1}
   - {r: 1, g: 0, b: 0, a: 1}
-  - {r: 0, g: 1, b: 0, a: 1}
-  - {r: 0, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0, b: 1, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
   - {r: 1, g: 0, b: 0, a: 1}
-  - {r: 1, g: 0, b: 0, a: 1}
-  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.50728744, b: 0, a: 1}
+  - {r: 1, g: 0.50728744, b: 0, a: 1}
+  - {r: 1, g: 0.50728744, b: 0, a: 1}
   <Propositions>k__BackingField:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0, g: 1, b: 0, a: 1}
